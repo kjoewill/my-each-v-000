@@ -10,5 +10,3 @@ def my_each(collection)
   collection
 end
 
-
-#my_each(array) { |e| puts e }
