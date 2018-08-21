@@ -11,4 +11,4 @@ def my_each(collection)
 end
 
 
-my_each(array) { |e| puts e }
+#my_each(array) { |e| puts e }
